@@ -1,2 +1,0 @@
-# MunDelegation
-Java Delegation manager
